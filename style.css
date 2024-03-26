@@ -1,0 +1,91 @@
+body {
+  text-align: center;
+  font-family: roboto ,sans-serif;
+  font-size: 21px;
+}
+a{
+  color: #99D930;
+  
+}
+a :hover{
+  color: #131313;
+}
+section{
+  display: block;
+}
+img{
+  border-radius: 50%;
+}
+.inside {
+  font-size: small;
+  font-size: 16px;
+  font-weight:900 ;
+  color: #99d930;
+}
+/* h1 {
+  font-size: 60px;
+} */
+h1 span {
+  font-size: 80px;
+  font-weight:900 ;
+  color: #99d930;
+}
+header{
+  background: #252525;
+  font:#fff;
+  /* padding: 100px; */
+  
+}
+/* h2 {
+  font-size: 42px;
+} */
+h2 span{
+  font-size: 60px;
+  font-weight:900 ;
+  color: #99d930;
+}
+.block2{
+  padding: 80px;
+  background-color: #FFEAEA;
+}
+h3 {
+  font-size: 36px;
+}
+
+p.block2 {
+  width: 570px;
+  /* text-align: center; */
+}
+.block3{
+  padding: 100px;
+  background-color: #252525;
+}
+ .btn1 :normal{
+  color: #252525;
+  background: #99D930;
+}
+.btn1 :hover{
+  color: #fff;
+  background: #252525;
+}
+ .btn2{
+  color: #252525;
+  background: #99D930;
+}
+.btn2  :hover{
+  background: #fff;
+  color: #252525;
+}
+h2{
+  border-top: 1px;
+  border-bottom: 1px;
+  border-color: #c4c4c4;
+  font-size: 60px;
+}
+h1{
+  font-size: 80px;
+}
+.block3 h2 span{
+  font-weight:900 ;
+  color: #99d930;
+}
